@@ -1,4 +1,4 @@
-Naive Bayes Textklassifikation
+Naive Bayes text classification
 ================
 
 sehr effizient Spam-Mails filtern
